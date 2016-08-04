@@ -108,4 +108,4 @@ Bây giờ bạn có thể voọc thoải mái theme và chỉnh sửa blog tùy
 
 Tạm thời mới làm đến đây và cũng được trang như bạn đang xem, khi nào mình voọc thêm được phần gì sẽ viết tiếp nhé, bye!
 
-_PS: bài viết đầu tiên, có gì sai sót xin được góp ý ^^_
+_PS: bài viết đầu tiên, có gì sai sót xin được góp ý [tại đây](https://github.com/congkhoa/congkhoa.com/issues)^^_
