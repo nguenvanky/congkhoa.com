@@ -2,7 +2,7 @@
 layout: post
 title:  "Tạo trang blog cá nhân miễn phí với Github.io và Jekyll"
 date: 2016-08-04 13:00:05 +0700
-categories: [web, github, persionalblog]
+categories: [mariadb]
 ---
 
 Chào anh em, hôm trước nổi hứng viết blog nên ngồi nghịch __pages.github.com__, tranh thủ nghỉ trưa mình đã tạo được trang blog này.
