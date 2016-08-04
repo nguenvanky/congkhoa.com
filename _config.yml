@@ -4,10 +4,10 @@ author: Khoa Nguyen
 github: https://github.com/congkhoa
 about: I am Python developer, System Admin.
 disqus_shortname: khoablog
-google_analytics: UA-XXXXXXXX-Y
+google_analytics: UA-81941010-1
 
 enableTags: true
-tagarray: []
+tagarray: [python, mariadb, golang]
 
 collections:
   project:
@@ -28,7 +28,7 @@ social:
 
 share:
   twitter_username: khoanc
-  fb_appid: 20
+  fb_appid: 161872040887306
 
 urls:
     - text: About Me
