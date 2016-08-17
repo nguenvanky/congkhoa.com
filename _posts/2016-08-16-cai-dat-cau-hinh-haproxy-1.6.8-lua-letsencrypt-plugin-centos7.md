@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cài đặt và cấu hình HAProxy 1.6.8 + Lua + Let's Encrypt plugin trên Centos 7"
-date: 2016-08-04 13:00:05 +0700
+date: 2016-08-16 13:00:05 +0700
 categories: [ops, haproxy]
 ---
 
