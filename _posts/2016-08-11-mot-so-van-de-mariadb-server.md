@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Một số vấn đề khi làm việc với Mariadb"
-date:   2016-06-11 03:43:45 +0700
+date:   2016-08-11 03:43:45 +0700
 categories: [mariadb]
 ---
 
