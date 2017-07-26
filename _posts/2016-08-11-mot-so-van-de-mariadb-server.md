@@ -78,7 +78,9 @@ nhiều quá có thể dẫn đến App bị thiếu RAM dẫn tới giảm hi�
 * `skip-name-resolve`:
 
 Mặc định Mariadb sẽ hỏi DNS server để biết kết nối của user đến từ IP address/Hostname nào. Bạn đặt giá trị của tham số này bằng 1 sẽ
-bỏ qua việc này, cải thiện được chút ít thời gian.
+bỏ qua việc này, cải thiện được chút ít thời gian.  
+
+Mình đã từng gặp vấn đề với tham số này: DB mình đặt trong hạ tầng mạng của đối tác với tường lửa và mạng không ổn định lắm, bình thường việc tạo connection mất khoảng 10s @@!, nhưng khi thêm option này vào thì thời gian tạo connection đã giảm xuống < 1s. Điều này cho thấy tham số này đôi khi rất có tác dụng.
 
 * `slow_query_log`:
 
